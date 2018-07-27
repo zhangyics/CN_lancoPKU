@@ -91,7 +91,7 @@
 
 - ### [ChineseNER](https://github.com/lancopku/ChineseNER)
 
-  论文“Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”相关代码。
+  论文“Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”相关代码。[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8411523). 此项工作将域外数据与域内未标注数据结合起来提高社交媒体中的命名实体识别表现。模型表现在强基线模型的基础上获得了明显提升。
   
 
 - ### [Multi-Order-LSTM](https://github.com/lancopku/Multi-Order-LSTM)
