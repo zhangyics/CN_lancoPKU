@@ -1,5 +1,5 @@
 
-## Machine Learning
+## 机器学习
 
 - ### [meProp](https://github.com/lancopku/meProp)
 
@@ -16,7 +16,7 @@
   论文 “paper Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks”[[pdf]](https://arxiv.org/pdf/1710.10393.pdf)相关代码。这项工作在训练过程中学习标签表示，并让以往并无关联的标签彼此之间产生了交互。模型收敛加快且极大地提高了准确度。同时，学习到的标签表示也更具合理性与可解释性。
 
 
-## Machine Translation
+## 机器翻译
 
 - ### [Deconv Dec](https://github.com/lancopku/DeconvDec)
 
@@ -32,7 +32,7 @@
 
 
 
-## Summarization 
+## 文本摘要
 
 
 - ### [LancoSum](https://github.com/lancopku/LancoSum) (toolkit)
@@ -64,7 +64,7 @@
   论文“Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1805.04869.pdf)相关代码。这项工作将摘要自编码器作为给序列到序列模型的一个监督信号，来获得更具信息量的源文本表示。实验结果显示模型在基准数据集上获得了最优效果。
 
 
-## Text Generation
+## 文本生成
 
 - ### [Unpaired-Sentiment-Translation](https://github.com/lancopku/Unpaired-Sentiment-Translation)
 
@@ -77,13 +77,13 @@
   论文“DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text” [[pdf]](https://arxiv.org/pdf/1802.01345.pdf)相关代码。这项工作在生成对抗网络中创新地引入了一个基于语言模型的判别器。所提出模型能够生成显著得优于基线方法的更具多样性和信息量的文本。
 
 
-## Dependency Parsing
+## 依存句法分析
 
 - ### [nndep](https://github.com/lancopku/nndep)
 
   论文“Hybrid Oracle: Making Use of Ambiguity in Transition-based Chinese Dependency Parsing”[[pdf]](https://arxiv.org/pdf/1711.10163.pdf)相关代码。此项工作利用一个分析状态的所有正确转移对损失函数提供更好的监督信号。新的分析器在中文依存句法分析上优于使用传统策略的分析器，同时，此句法分析器也可用于对同一句子生成多个转移序列。
 
-## Sequence Labeling
+## 序列标注
 
 - ### [PKUSeg](https://github.com/lancopku/PKUSeg) (toolkit)
 
@@ -104,7 +104,7 @@
   论文“Conditional Random Fields with Decode-based Learning: Simpler and Faster”[[pdf]](https://arxiv.org/pdf/1503.08381.pdf)相关代码。此项工作提出了一个基于解码的概率化在线学习方法。该方法训练很快，易于实现，准确率高，且理论可收敛。
 
 
-## Text Classification
+## 文本分类
 
 - ###  [SGM](https://github.com/lancopku/SGM)
 
@@ -112,7 +112,7 @@
 
 
 
-## Applied Tasks
+## 应用任务
 
 - ### [AAPR](https://github.com/lancopku/AAPR)
 
@@ -126,7 +126,7 @@
 
 
 
-## Datasets
+## 数据集
 
 - ### [Chinese-Literature-NER-RE-Dataset](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset)
 
